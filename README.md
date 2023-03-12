@@ -10,6 +10,13 @@ Once a password has been generated, the user can copy it to their clipboard usin
 Overall, the password generator provides a simple and effective way to generate strong, secure passwords that are difficult for hackers to guess or crack.
 
 ## How to run the project
+1. Clone The Project 
+```
+git clone https://github.com/aadhib/Password-Generator.git
+```
+2. Open The Project File In a code Editor
+3. Steps to Run
++ You can use Live Server Extension to run the web.
 + You can run the project by opening the index.html file in your web browser. 
 + You can also use a web server such as XAMPP or WAMP to run the project if it requires a server-side component.
 
